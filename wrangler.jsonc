@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bb-cf-external-pr-0906",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "preview_urls": true
+}
+
